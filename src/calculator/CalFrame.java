@@ -54,6 +54,8 @@ public class CalFrame extends javax.swing.JFrame {
         jButton32 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Calculator");
+        setPreferredSize(new java.awt.Dimension(400, 400));
 
         jPanel1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 3));
 
